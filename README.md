@@ -13,6 +13,6 @@ Nota-se os seguintes apontamentos sobre os editoriais:
   <li>"Educação" tem notícias mais positivas no portal G1;</li>
   <li>"Mundo" e "Política" têm uma média regular/negativa e uma tendência para o negativo;</li>
   <li>"Pop_Arte_TV" e "Viagem" têm uma tendência para o positivo;</li>
-  <li>O portal G1 em "Tecnologia" tem uma tendencia para o regular/negativo, diferente de outros portais. Já em "Educação" é ao contrário;</li>
+  <li>O portal G1 em "Tecnologia" tem uma tendencia para o regular/negativo, diferente de outros portais. Já em "Educação" é o contrário;</li>
 </ol>
 
