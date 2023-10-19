@@ -1,0 +1,253 @@
+source,category,title,negative,neutral,positive,sentiment,confidence
+cnn,Mundo,"María Machado, favorita nas primárias da Venezuela, segue em campanha apesar da proibição",0.20212127268314362,0.7374873757362366,0.06039133667945862,neutral,0.7374873757362366
+cnn,Mundo,"Dois mísseis são disparados do Líbano em direção a ocupação israelense, diz mídia estatal",0.612378716468811,0.3246917724609375,0.06292947381734848,negative,0.612378716468811
+cnn,Mundo,Tensões aumentam na Cisjordânia em meio a conflito entre Israel e Hamas,0.17220908403396606,0.7744174003601074,0.05337353050708771,neutral,0.7744174003601074
+cnn,Mundo,Opinião: O medo persistente de saber que minha família palestina pode ser morta a qualquer momento,0.2174358069896698,0.6922017335891724,0.09036251157522202,neutral,0.6922017335891724
+cnn,Mundo,Israel detém 63 supostos “agentes terroristas do Hamas” em ataques na Cisjordânia,0.7703193426132202,0.1700192540884018,0.059661492705345154,negative,0.7703193426132202
+cnn,Mundo,Amorim fala com conselheiros de Putin e Macron sobre cúpula no Egito e alternativas na ONU,0.1291457563638687,0.4733026623725891,0.397551566362381,neutral,0.4733026623725891
+cnn,Mundo,Israel notifica famílias de 203 pessoas que estariam sendo mantidas reféns na Faixa de Gaza,0.6443595886230469,0.27850547432899475,0.07713498920202255,negative,0.6443595886230469
+cnn,Mundo,Forças especiais da Ucrânia usam ataques táticos de distração na Crimeia,0.4027666747570038,0.4835472106933594,0.11368609219789505,neutral,0.4835472106933594
+cnn,Mundo,Netanyahu diz que Israel está lutando contra o “eixo do mal” liderado pelo Irã,0.38226255774497986,0.4940871596336365,0.1236501932144165,neutral,0.4940871596336365
+cnn,Mundo,"María Machado, favorita nas primárias da Venezuela, segue em campanha apesar da proibição",0.20212127268314362,0.7374873757362366,0.06039133667945862,neutral,0.7374873757362366
+cnn,Mundo,"Dois mísseis são disparados do Líbano em direção a ocupação israelense, diz mídia estatal",0.612378716468811,0.3246917724609375,0.06292947381734848,negative,0.612378716468811
+cnn,Mundo,Tensões aumentam na Cisjordânia em meio a conflito entre Israel e Hamas,0.17220908403396606,0.7744174003601074,0.05337353050708771,neutral,0.7744174003601074
+cnn,Mundo,Opinião: O medo persistente de saber que minha família palestina pode ser morta a qualquer momento,0.2174358069896698,0.6922017335891724,0.09036251157522202,neutral,0.6922017335891724
+cnn,Mundo,Israel detém 63 supostos “agentes terroristas do Hamas” em ataques na Cisjordânia,0.7703193426132202,0.1700192540884018,0.059661492705345154,negative,0.7703193426132202
+cnn,Mundo,Amorim fala com conselheiros de Putin e Macron sobre cúpula no Egito e alternativas na ONU,0.1291457563638687,0.4733026623725891,0.397551566362381,neutral,0.4733026623725891
+cnn,Mundo,Israel notifica famílias de 203 pessoas que estariam sendo mantidas reféns na Faixa de Gaza,0.6443595886230469,0.27850547432899475,0.07713498920202255,negative,0.6443595886230469
+cnn,Mundo,Forças especiais da Ucrânia usam ataques táticos de distração na Crimeia,0.4027666747570038,0.4835472106933594,0.11368609219789505,neutral,0.4835472106933594
+cnn,Mundo,Netanyahu diz que Israel está lutando contra o “eixo do mal” liderado pelo Irã,0.38226255774497986,0.4940871596336365,0.1236501932144165,neutral,0.4940871596336365
+cnn,Educação,Cerca de 150 alunos e servidores de escola sofrem intoxicação alimentar em MG,0.7019099593162537,0.26511746644973755,0.032972533255815506,negative,0.7019099593162537
+cnn,Educação,CAC é preso após balear adolescente que brigava com seu filho em saída de escola em SP,0.8243938684463501,0.12779970467090607,0.04780643433332443,negative,0.8243938684463501
+cnn,Educação,"Faturamento de franquias cresce 15% no primeiro semestre deste ano, diz consultoria",0.02108730934560299,0.4034677743911743,0.5754449367523193,positive,0.5754449367523193
+cnn,Educação,Maurício Pestana: nossa guerra de cada dia,0.07953262329101562,0.2592082619667053,0.6612591743469238,positive,0.6612591743469238
+cnn,Educação,Governo federal bloqueia R$ 116 milhões previstos para orçamento da Capes em 2023,0.6393924951553345,0.329872190952301,0.030735256150364876,negative,0.6393924951553345
+cnn,Educação,Barroso diz que Brasil vive “momento de esforço de pacificação”: “as instituições venceram”,0.1889345943927765,0.5645663738250732,0.24649906158447266,neutral,0.5645663738250732
+cnn,Educação,"Com plano de lojas “zero desperdício”, Grupo Carrefour assina Pacto Contra a Fome",0.06482936441898346,0.23442460596561432,0.7007459998130798,positive,0.7007459998130798
+cnn,Educação,Série “Anderson Spider Silva” tem data de lançamento anunciada; veja o trailer,0.15191449224948883,0.5247465372085571,0.32333895564079285,neutral,0.5247465372085571
+cnn,Educação,Viih Tube conta que filha de seis meses já tem poupança com mais de R$1 milhão,0.5213830471038818,0.402356892824173,0.0762600302696228,negative,0.5213830471038818
+cnn,Educação,Cerca de 150 alunos e servidores de escola sofrem intoxicação alimentar em MG,0.7019099593162537,0.26511746644973755,0.032972533255815506,negative,0.7019099593162537
+cnn,Educação,CAC é preso após balear adolescente que brigava com seu filho em saída de escola em SP,0.8243938684463501,0.12779970467090607,0.04780643433332443,negative,0.8243938684463501
+cnn,Educação,"Faturamento de franquias cresce 15% no primeiro semestre deste ano, diz consultoria",0.02108730934560299,0.4034677743911743,0.5754449367523193,positive,0.5754449367523193
+cnn,Educação,Maurício Pestana: nossa guerra de cada dia,0.07953262329101562,0.2592082619667053,0.6612591743469238,positive,0.6612591743469238
+cnn,Educação,Governo federal bloqueia R$ 116 milhões previstos para orçamento da Capes em 2023,0.6393924951553345,0.329872190952301,0.030735256150364876,negative,0.6393924951553345
+cnn,Educação,Barroso diz que Brasil vive “momento de esforço de pacificação”: “as instituições venceram”,0.1889345943927765,0.5645663738250732,0.24649906158447266,neutral,0.5645663738250732
+cnn,Educação,"Com plano de lojas “zero desperdício”, Grupo Carrefour assina Pacto Contra a Fome",0.06482936441898346,0.23442460596561432,0.7007459998130798,positive,0.7007459998130798
+cnn,Educação,Série “Anderson Spider Silva” tem data de lançamento anunciada; veja o trailer,0.15191449224948883,0.5247465372085571,0.32333895564079285,neutral,0.5247465372085571
+cnn,Educação,Viih Tube conta que filha de seis meses já tem poupança com mais de R$1 milhão,0.5213830471038818,0.402356892824173,0.0762600302696228,negative,0.5213830471038818
+cnn,Política,TSE rejeita primeira ação de Bolsonaro contra Lula e Alckmin,0.5544328689575195,0.3485187590122223,0.09704839438199997,negative,0.5544328689575195
+cnn,Política,TSE aprova regra sobre uso de residência oficial para live eleitoral,0.03929519280791283,0.33432435989379883,0.6263803839683533,positive,0.6263803839683533
+cnn,Política,Senado discute PEC que limita poderes do STF; líderes tentam acelerar votação,0.1743258237838745,0.6826016306877136,0.14307254552841187,neutral,0.6826016306877136
+cnn,Política,OCDE está preocupada e vai monitorar impactos da decisão de Toffoli sobre Odebrecht,0.32912924885749817,0.6253467798233032,0.045524004846811295,neutral,0.6253467798233032
+cnn,Política,"Após demissão de presidente da EBC, governo pede “bom senso” a servidores sobre postagens relacionas à guerra",0.20624065399169922,0.6067308187484741,0.18702848255634308,neutral,0.6067308187484741
+cnn,Política,Aposentadoria de Laurita Vaz abre mais uma indicação para Lula no STJ,0.06236978992819786,0.4487036168575287,0.48892661929130554,positive,0.48892661929130554
+cnn,Política,TSE julga primeiras ações de Bolsonaro contra Lula nesta quinta-feira (19),0.17752374708652496,0.4993688762187958,0.32310739159584045,neutral,0.4993688762187958
+cnn,Política,Appio admite conduta imprópria e vai pedir transferência da vara da Lava Jato,0.7249875068664551,0.23403796553611755,0.04097449406981468,negative,0.7249875068664551
+cnn,Política,"Três meses após decisão de Lula, Alcolumbre marca sabatinas de indicados ao STJ",0.36650359630584717,0.5233597755432129,0.11013658344745636,neutral,0.5233597755432129
+cnn,Política,TSE rejeita primeira ação de Bolsonaro contra Lula e Alckmin,0.5544328689575195,0.3485187590122223,0.09704839438199997,negative,0.5544328689575195
+cnn,Política,TSE aprova regra sobre uso de residência oficial para live eleitoral,0.03929519280791283,0.33432435989379883,0.6263803839683533,positive,0.6263803839683533
+cnn,Política,Senado discute PEC que limita poderes do STF; líderes tentam acelerar votação,0.1743258237838745,0.6826016306877136,0.14307254552841187,neutral,0.6826016306877136
+cnn,Política,OCDE está preocupada e vai monitorar impactos da decisão de Toffoli sobre Odebrecht,0.32912924885749817,0.6253467798233032,0.045524004846811295,neutral,0.6253467798233032
+cnn,Política,"Após demissão de presidente da EBC, governo pede “bom senso” a servidores sobre postagens relacionas à guerra",0.20624065399169922,0.6067308187484741,0.18702848255634308,neutral,0.6067308187484741
+cnn,Política,Aposentadoria de Laurita Vaz abre mais uma indicação para Lula no STJ,0.06236978992819786,0.4487036168575287,0.48892661929130554,positive,0.48892661929130554
+cnn,Política,TSE julga primeiras ações de Bolsonaro contra Lula nesta quinta-feira (19),0.17752374708652496,0.4993688762187958,0.32310739159584045,neutral,0.4993688762187958
+cnn,Política,Appio admite conduta imprópria e vai pedir transferência da vara da Lava Jato,0.7249875068664551,0.23403796553611755,0.04097449406981468,negative,0.7249875068664551
+cnn,Política,"Três meses após decisão de Lula, Alcolumbre marca sabatinas de indicados ao STJ",0.36650359630584717,0.5233597755432129,0.11013658344745636,neutral,0.5233597755432129
+cnn,Pop_Arte_TV,MTV Europe Music Awards é cancelado em meio à crise entre Israel e Gaza,0.7115415334701538,0.25596314668655396,0.03249523788690567,negative,0.7115415334701538
+cnn,Pop_Arte_TV,Netflix anuncia fim do plano básico no Brasil e aumenta preços nos EUA e Europa,0.24728769063949585,0.6576838493347168,0.09502848982810974,neutral,0.6576838493347168
+cnn,Pop_Arte_TV,“Todos Menos Você”: Sydney Sweeney e Glen Powell estrelam trailer de comédia,0.1807558536529541,0.2803616225719452,0.5388824939727783,positive,0.5388824939727783
+cnn,Pop_Arte_TV,Jojo Todynho conta por que não mostra marido nas redes sociais: “Viver em paz”,0.14350096881389618,0.3266249895095825,0.5298740267753601,positive,0.5298740267753601
+cnn,Pop_Arte_TV,Gwyneth Paltrow defende cultura dos “nepo babies”: “Nada de errado”,0.08600864559412003,0.35134831070899963,0.5626430511474609,positive,0.5626430511474609
+cnn,Pop_Arte_TV,Britney Spears diz ter sido difícil escrever livro; obra atinge 1º lugar na pré-venda,0.16910390555858612,0.663896918296814,0.16699914634227753,neutral,0.663896918296814
+cnn,Pop_Arte_TV,"Solteira, Kim Kardashian revela nova exigência para um date com ela",0.06037994474172592,0.4107833504676819,0.528836727142334,positive,0.528836727142334
+cnn,Pop_Arte_TV,TXT diz que Anitta despertou neles mais interesse pela energia vibrante do Brasil,0.14038732647895813,0.34771430492401123,0.511898398399353,positive,0.511898398399353
+cnn,Pop_Arte_TV,Motorista desabafa nas redes após Kayky Brito ignorá-lo: “Virar essa página”,0.710754930973053,0.2596845328807831,0.029560653492808342,negative,0.710754930973053
+cnn,Pop_Arte_TV,MTV Europe Music Awards é cancelado em meio à crise entre Israel e Gaza,0.7115415334701538,0.25596314668655396,0.03249523788690567,negative,0.7115415334701538
+cnn,Pop_Arte_TV,Netflix anuncia fim do plano básico no Brasil e aumenta preços nos EUA e Europa,0.24728769063949585,0.6576838493347168,0.09502848982810974,neutral,0.6576838493347168
+cnn,Pop_Arte_TV,“Todos Menos Você”: Sydney Sweeney e Glen Powell estrelam trailer de comédia,0.1807558536529541,0.2803616225719452,0.5388824939727783,positive,0.5388824939727783
+cnn,Pop_Arte_TV,Jojo Todynho conta por que não mostra marido nas redes sociais: “Viver em paz”,0.14350096881389618,0.3266249895095825,0.5298740267753601,positive,0.5298740267753601
+cnn,Pop_Arte_TV,Gwyneth Paltrow defende cultura dos “nepo babies”: “Nada de errado”,0.08600864559412003,0.35134831070899963,0.5626430511474609,positive,0.5626430511474609
+cnn,Pop_Arte_TV,Britney Spears diz ter sido difícil escrever livro; obra atinge 1º lugar na pré-venda,0.16910390555858612,0.663896918296814,0.16699914634227753,neutral,0.663896918296814
+cnn,Pop_Arte_TV,"Solteira, Kim Kardashian revela nova exigência para um date com ela",0.06037994474172592,0.4107833504676819,0.528836727142334,positive,0.528836727142334
+cnn,Pop_Arte_TV,TXT diz que Anitta despertou neles mais interesse pela energia vibrante do Brasil,0.14038732647895813,0.34771430492401123,0.511898398399353,positive,0.511898398399353
+cnn,Pop_Arte_TV,Motorista desabafa nas redes após Kayky Brito ignorá-lo: “Virar essa página”,0.710754930973053,0.2596845328807831,0.029560653492808342,negative,0.710754930973053
+cnn,Viagem,"5 vinícolas na região de Maipú, perto do centro de Mendoza",0.017382251098752022,0.07015930116176605,0.9124584197998047,positive,0.9124584197998047
+cnn,Viagem,Onde comer em Zurique: 11 endereços na maior cidade da Suíça,0.019034627825021744,0.07419239729642868,0.9067729115486145,positive,0.9067729115486145
+cnn,Viagem,Epic Universe: os detalhes do novo parque da Universal em Orlando,0.019928444176912308,0.12260614335536957,0.857465386390686,positive,0.857465386390686
+cnn,Viagem,"Mercado de Pinheiros, em SP, recebe festival gratuito com sabores da Ásia",0.11906284093856812,0.3800106644630432,0.5009265542030334,positive,0.5009265542030334
+cnn,Viagem,Bar em Barcelona é eleito o melhor do mundo; confira ranking,0.009444227442145348,0.026582449674606323,0.963973343372345,positive,0.963973343372345
+cnn,Viagem,"Albert Adrià, Bruno Verjus e Janaína Rueda são alguns dos palestrantes do Mesa SP 2023",0.0799953043460846,0.22288359701633453,0.6971210837364197,positive,0.6971210837364197
+cnn,Viagem,1ª Bienal da Gastronomia de BH leva chefs do Brasil e do mundo à capital mineira,0.05246616527438164,0.1739950329065323,0.7735387682914734,positive,0.7735387682914734
+cnn,Viagem,"Tradicional Arais do Carlinhos abre no Complexo Vila Anália, na Zona Leste de SP",0.0893283560872078,0.2220144271850586,0.6886572241783142,positive,0.6886572241783142
+cnn,Viagem,Europa adia taxas de entrada de viagens até 2025,0.12414572387933731,0.7511534094810486,0.1247008889913559,neutral,0.7511534094810486
+cnn,Tecnologia,"Composto raro detectado na “Mona Lisa” revela um novo segredo, diz estudo",0.08202201128005981,0.3592568039894104,0.5587211847305298,positive,0.5587211847305298
+cnn,Tecnologia,Saiba como funcionam os purificadores de água enviados pelo Brasil para a Faixa de Gaza,0.05312482267618179,0.2104419767856598,0.736433207988739,positive,0.736433207988739
+cnn,Tecnologia,Saiba quem são os irmãos brasileiros aceitos em sociedades internacionais de alto QI,0.040892791002988815,0.21210528910160065,0.7470018863677979,positive,0.7470018863677979
+cnn,Tecnologia,Imagens de satélite mostram sombra da Lua sobre Brasil durante eclipse; veja,0.32916024327278137,0.4423879384994507,0.22845183312892914,neutral,0.4423879384994507
+cnn,Tecnologia,Veja imagens do eclipse solar deste sábado (14) no Brasil,0.2842649519443512,0.45469045639038086,0.26104459166526794,neutral,0.45469045639038086
+cnn,Tecnologia,"Nasa lança espaçonave para explorar asteroide Psique, rico em metais",0.3271358907222748,0.4176080524921417,0.2552560567855835,neutral,0.4176080524921417
+cnn,Tecnologia,Como assistir ao eclipse do “anel de fogo” neste sábado (14),0.13311423361301422,0.37849169969558716,0.48839402198791504,positive,0.48839402198791504
+cnn,Tecnologia,Eclipse com “anel de fogo” poderá ser visto no Brasil pela primeira vez desde 1994,0.24803079664707184,0.4043632447719574,0.34760594367980957,neutral,0.4043632447719574
+cnn,Tecnologia,Cientistas monitoram “alarmante” derretimento de plataformas de gelo da Antártida,0.2345476597547531,0.6083940863609314,0.15705831348896027,neutral,0.6083940863609314
+cnn,Tecnologia,"Composto raro detectado na “Mona Lisa” revela um novo segredo, diz estudo",0.08202201128005981,0.3592568039894104,0.5587211847305298,positive,0.5587211847305298
+cnn,Tecnologia,Saiba como funcionam os purificadores de água enviados pelo Brasil para a Faixa de Gaza,0.05312482267618179,0.2104419767856598,0.736433207988739,positive,0.736433207988739
+cnn,Tecnologia,Saiba quem são os irmãos brasileiros aceitos em sociedades internacionais de alto QI,0.040892791002988815,0.21210528910160065,0.7470018863677979,positive,0.7470018863677979
+cnn,Tecnologia,Imagens de satélite mostram sombra da Lua sobre Brasil durante eclipse; veja,0.32916024327278137,0.4423879384994507,0.22845183312892914,neutral,0.4423879384994507
+cnn,Tecnologia,Veja imagens do eclipse solar deste sábado (14) no Brasil,0.2842649519443512,0.45469045639038086,0.26104459166526794,neutral,0.45469045639038086
+cnn,Tecnologia,"Nasa lança espaçonave para explorar asteroide Psique, rico em metais",0.3271358907222748,0.4176080524921417,0.2552560567855835,neutral,0.4176080524921417
+cnn,Tecnologia,Como assistir ao eclipse do “anel de fogo” neste sábado (14),0.13311423361301422,0.37849169969558716,0.48839402198791504,positive,0.48839402198791504
+cnn,Tecnologia,Eclipse com “anel de fogo” poderá ser visto no Brasil pela primeira vez desde 1994,0.24803079664707184,0.4043632447719574,0.34760594367980957,neutral,0.4043632447719574
+cnn,Tecnologia,Cientistas monitoram “alarmante” derretimento de plataformas de gelo da Antártida,0.2345476597547531,0.6083940863609314,0.15705831348896027,neutral,0.6083940863609314
+g1,Mundo,Os caminhões que esperam na fronteira para levar ajuda humanitária a Gaza,0.4046933948993683,0.5193042755126953,0.07600231468677521,neutral,0.5193042755126953
+g1,Mundo,Bombardeios em Gaza deixam mortos e ferem funcionários da ONU; 3 palestinos morrem em operação na Cisjordânia; ACOMPANHE,0.6432046294212341,0.24359720945358276,0.11319813132286072,negative,0.6432046294212341
+g1,Mundo,EUA emitem 'alerta de segurança mundial' para americanos no exterior por possibilidade de ataques terroristas,0.5152859091758728,0.41305261850357056,0.07166150212287903,negative,0.5152859091758728
+g1,Mundo,"Possível vitória de Milei na Argentina preocupa Brasil, diz Haddad",0.1501878798007965,0.7270675301551819,0.12274457514286041,neutral,0.7270675301551819
+g1,Mundo,Funcionário do governo dos EUA renuncia após Biden anunciar mais apoio militar a Israel,0.48848384618759155,0.42004072666168213,0.09147536754608154,negative,0.48848384618759155
+g1,Mundo,Câmera corporal mostra integrantes do Hamas entrando em Kibutz e disparando contra as casas,0.5274012088775635,0.3785862326622009,0.09401251375675201,negative,0.5274012088775635
+g1,Mundo,As crianças que sobreviveram a bombardeios em Gaza mas ficaram órfãs,0.37848222255706787,0.5012843012809753,0.1202334314584732,neutral,0.5012843012809753
+g1,Mundo,Guerra entre Israel e Hamas matou 19 jornalistas em 13 dias,0.8419085144996643,0.1295253038406372,0.02856624126434326,negative,0.8419085144996643
+g1,Mundo,'Carros voadores' começam a ser vendidos nos EUA pela empresa alemã Lilium; veja FOTOS,0.22065158188343048,0.5655434131622314,0.21380500495433807,neutral,0.5655434131622314
+g1,Educação,g1 testou: ChatGPT é um bom corretor de redação do Enem? Veja se 'robô' pode ajudar nos estudos ,0.03850692883133888,0.24228446185588837,0.7192086577415466,positive,0.7192086577415466
+g1,Educação,Fortaleza tem 40% dos aprovados em todo o Brasil para segunda fase do ITA,0.05485465005040169,0.3811107873916626,0.5640345811843872,positive,0.5640345811843872
+g1,Educação,Escolas no ES mudam sinais sonoros de intervalos de aulas para músicas populares para não incomodar alunos autistas,0.1429811269044876,0.7638918161392212,0.09312703460454941,neutral,0.7638918161392212
+g1,Educação,"Governo Lula bloqueou R$ 86 milhões da Capes em agosto, dizem entidades de pesquisa ",0.544929027557373,0.4100080728530884,0.04506290704011917,negative,0.544929027557373
+g1,Educação,Enem 2023: veja como não zerar na redação e o que é preciso para conseguir a nota mil,0.10628551989793777,0.3363211750984192,0.5573932528495789,positive,0.5573932528495789
+g1,Educação,Maju Coutinho se emociona ao falar sobre os pais em homenagem do Fantástico ao Dia dos Professores,0.08681503683328629,0.1672166883945465,0.7459682822227478,positive,0.7459682822227478
+g1,Educação,Professor de matemática é destaque em salas de aula do Pará com cosplay de Jaspion e outros super-heróis,0.018309641629457474,0.09439896792173386,0.8872913718223572,positive,0.8872913718223572
+g1,Educação,"Dia do Professor: em 4 anos, mais de 14 mil servidores da educação foram afastados por problemas de saúde mental no DF ",0.47152191400527954,0.45506551861763,0.07341253012418747,negative,0.47152191400527954
+g1,Educação,Estudante que passou em 1º lugar para medicina ensina como estudar para o Enem em casa: ‘é possível’,0.07802508026361465,0.27387571334838867,0.6480991840362549,positive,0.6480991840362549
+g1,Política,"Lula e Petro, da Colômbia, articulam reunião regional para debater seca na Amazônia",0.2927806079387665,0.5347400903701782,0.17247934639453888,neutral,0.5347400903701782
+g1,Política,PGR vê 'claro viés político' e se posiciona contra abertura de inquérito sobre relógio de Lula,0.10487736016511917,0.5994399189949036,0.29568272829055786,neutral,0.5994399189949036
+g1,Política,PF oficia Exército pedindo informações para avaliar instaurar inquérito sobre metralhadoras,0.7653571963310242,0.19441772997379303,0.040225084871053696,negative,0.7653571963310242
+g1,Política,STF marca para o dia 27 julgamento de mais sete réus por atos de 8 de janeiro,0.3631283938884735,0.495900422334671,0.1409711390733719,neutral,0.495900422334671
+g1,Política,"Possível vitória de Milei na Argentina preocupa Brasil, diz Haddad",0.1501878798007965,0.7270675301551819,0.12274457514286041,neutral,0.7270675301551819
+g1,Política,Pacheco diz que Judiciário precisa se aprimorar e defende discussão de PEC que limita decisões individuais no STF,0.11770431697368622,0.6778730750083923,0.20442266762256622,neutral,0.6778730750083923
+g1,Política,TSE rejeita duas ações de investigação contra Lula e Alckmin,0.40165627002716064,0.48075419664382935,0.1175895556807518,neutral,0.48075419664382935
+g1,Política,TSE fixa orientações para lives eleitorais de candidatos à reeleição no Poder Executivo; veja regras,0.06276726722717285,0.4635508358478546,0.4736819565296173,positive,0.4736819565296173
+g1,Política,"Em ligação, conselheiro de Macron agradece esforço de Lula no Conselho de Segurança ",0.18932625651359558,0.3936538100242615,0.4170198440551758,positive,0.4170198440551758
+g1,Pop_Arte_TV,"Livros sobre Jorge Ben, Novos Baianos e o repentista Otacílio Batista ampliam bibliografia musical brasileira",0.017048392444849014,0.19036276638507843,0.7925888299942017,positive,0.7925888299942017
+g1,Pop_Arte_TV,'Não há guerras' e 'a natureza está em ordem': as previsões de robô em programa da Xuxa para 2023,0.13368429243564606,0.5194380879402161,0.3468776345252991,neutral,0.5194380879402161
+g1,Pop_Arte_TV,'Dinheiro fácil' adapta história real em conto divertido e satisfatório de desforra contra Wall Street; g1 já viu,0.01769356243312359,0.11082223057746887,0.8714842200279236,positive,0.8714842200279236
+g1,Pop_Arte_TV,"Burt Young, o Paulie de 'Rocky', morre aos 83 anos",0.6380020380020142,0.28580644726753235,0.07619146257638931,negative,0.6380020380020142
+g1,Pop_Arte_TV,Cancelamento da campanha com música 'Magia amarela' é decisão sensata,0.09760593622922897,0.505222499370575,0.39717158675193787,neutral,0.505222499370575
+g1,Pop_Arte_TV,De aborto a relação com a mãe: ponto a ponto sobre as revelações mais polêmicas de Britney Spears em biografia,0.029771989211440086,0.15453733503818512,0.8156906962394714,positive,0.8156906962394714
+g1,Pop_Arte_TV,"Almério e Martins atravessam, com harmonia cúmplice, portal aberto por Alceu Valença",0.022761188447475433,0.04224852845072746,0.9349903464317322,positive,0.9349903464317322
+g1,Pop_Arte_TV,Emicida x Juliette e Duda Beat: entenda a treta envolvendo suposto plágio de AmarElo,0.11948134750127792,0.45764344930648804,0.42287516593933105,neutral,0.45764344930648804
+g1,Pop_Arte_TV,"Maiara, dupla de Maraisa, anuncia término com cantor Matheus Gabriel: 'Não está sendo fácil pra mim'",0.5023688077926636,0.443681001663208,0.053950171917676926,negative,0.5023688077926636
+g1,Viagem,"Bairro 'mais legal do mundo' fica em cidade que já deu nome a cartel de drogas, mas hoje é exemplo de desenvolvimento",0.01037461869418621,0.04473794251680374,0.9448874592781067,positive,0.9448874592781067
+g1,Viagem,123 Milhas: Secretaria Nacional do Consumidor abre processo administrativo contra empresa,0.5975769758224487,0.36132165789604187,0.04110138863325119,negative,0.5975769758224487
+g1,Viagem,SC lidera ranking de cidades brasileiras com certificado internacional de turismo responsável; conheça destinos,0.007465223781764507,0.04992042854428291,0.9426143765449524,positive,0.9426143765449524
+g1,Viagem,"Os melhores bares do mundo em 2023, segundo especialistas; ranking tem dois brasileiros",0.007968785241246223,0.03605044260621071,0.9559807777404785,positive,0.9559807777404785
+g1,Viagem,Voo panorâmico no ES leva passageiros a conhecerem paisagens de tirar o fôlego; FOTOS,0.038503240793943405,0.08582073450088501,0.8756759762763977,positive,0.8756759762763977
+g1,Viagem,Clientes podem cancelar viagem para lugares que estão em conflito armado? Tire dúvidas,0.2220795750617981,0.6446041464805603,0.1333162933588028,neutral,0.6446041464805603
+g1,Viagem,"Conheça os 5 lugares mais sagrados do mundo, segundo site",0.0122415442019701,0.05442985147237778,0.9333285689353943,positive,0.9333285689353943
+g1,Viagem,"Janaína Rueda, do restaurante A Casa do Porco, é eleita a melhor chef mulher da América Latina pelo 50 Best",0.013039846904575825,0.04108026251196861,0.9458799362182617,positive,0.9458799362182617
+g1,Viagem,"Guarda-roupa, porta e encosto com saída de som: como é o voo de luxo na primeira classe do novo avião da JAL",0.021240416914224625,0.08355538547039032,0.8952042460441589,positive,0.8952042460441589
+r7,Mundo,Biden fará pronunciamento sobre guerras em Israel e na Ucrânia na quinta-feira  ,0.2909378707408905,0.4566693603992462,0.25239279866218567,neutral,0.4566693603992462
+r7,Mundo,Exclusivo: Cabrini revela como chegará na fronteira com a Faixa de Gaza indo pelo Egito,0.025175556540489197,0.08465147018432617,0.8901729583740234,positive,0.8901729583740234
+r7,Mundo,Protestos e pronunciamentos intensificam o clima de tensão na guerra entre Israel e Hamas,0.3388347327709198,0.5493327379226685,0.11183252930641174,neutral,0.5493327379226685
+r7,Mundo,Repórter é obrigado a interromper participação ao vivo no Cidade Alerta para ser revistado em Israel,0.8319432735443115,0.14342693984508514,0.024629831314086914,negative,0.8319432735443115
+r7,Mundo,Israel nega novamente a autoria do ataque em hospital na Faixa de Gaza,0.7853903770446777,0.1709352433681488,0.04367440566420555,negative,0.7853903770446777
+r7,Mundo,Judeus não-sionistas ocupam prédio do Congresso dos EUA para exigir cessar-fogo em Gaza,0.7319644093513489,0.21187016367912292,0.05616540089249611,negative,0.7319644093513489
+r7,Mundo,Espanha e Itália resgatam mais de 500 migrantes em um único dia,0.20144490897655487,0.40928831696510315,0.3892667591571808,neutral,0.40928831696510315
+r7,Mundo,Biden anuncia que Egito liberou entrada de ajuda humanitária em Gaza,0.2692013084888458,0.49906018376350403,0.23173849284648895,neutral,0.49906018376350403
+r7,Mundo,Aliado de Trump sofre nova derrota em eleição para presidente da Câmara nos EUA,0.2771691679954529,0.6214870810508728,0.10134373605251312,neutral,0.6214870810508728
+r7,Educação,Modalidades de Vagas/Concorrência no Sisu,0.17521946132183075,0.6552722454071045,0.16950826346874237,neutral,0.6552722454071045
+r7,Educação,"Brasileiros estão consumindo mais presunto em vez de queijo, aponta pesquisa",0.10977046936750412,0.768327534198761,0.12190192937850952,neutral,0.768327534198761
+r7,Educação,É aposentado por invalidez? Então você tem direitos a ESTES 4 benefícios!,0.3519214391708374,0.30495473742485046,0.34312382340431213,negative,0.3519214391708374
+r7,Educação,Professores da rede particular de ensino serão homenageados na Câmara Legislativa do DF,0.16341304779052734,0.3181561231613159,0.5184308886528015,positive,0.5184308886528015
+r7,Educação,Governo de SP propõe redução de verbas para a Educação,0.2324681580066681,0.6368798017501831,0.13065208494663239,neutral,0.6368798017501831
+r7,Educação,Não resistiu à tentação e olhou para o eclipse? Veja como saber se a sua visão foi afetada!,0.18271982669830322,0.39353492856025696,0.42374521493911743,positive,0.42374521493911743
+r7,Educação,Saraiva: o que está por trás da melancólica falência daquela que já foi a maior livraria do Brasil?,0.668247640132904,0.3024643659591675,0.029288027435541153,negative,0.668247640132904
+r7,Educação,Novidade! PicPay anuncia 'poupança infantil' no mês das crianças; saiba mais,0.020948946475982666,0.17528405785560608,0.8037669658660889,positive,0.8037669658660889
+r7,Educação,Um erro COMUM no preparo pode ACABAR com os nutrientes do feijão; saiba como evitar,0.11880479007959366,0.5751346349716187,0.3060605823993683,neutral,0.5751346349716187
+r7,Política,Juiz Appio admite “conduta imprópria” e desiste de vara da Lava Jato,0.829975962638855,0.1393701583147049,0.03065384551882744,negative,0.829975962638855
+r7,Política,CPMI 8 de Janeiro: oposição vaia Eliziane Gama,0.5767865777015686,0.37286490201950073,0.05034850910305977,negative,0.5767865777015686
+r7,Política,Assessor de líder da oposição na Câmara se envolve em confusão e é exonerado,0.8470335006713867,0.1278538703918457,0.02511264570057392,negative,0.8470335006713867
+r7,Política,STF decide que governos devem garantir transporte público gratuito nas eleições,0.15252578258514404,0.5813108086585999,0.2661634087562561,neutral,0.5813108086585999
+r7,Política,Professores da rede particular de ensino serão homenageados na Câmara Legislativa do DF,0.16341304779052734,0.3181561231613159,0.5184308886528015,positive,0.5184308886528015
+r7,Política,"Em carta ao presidente do Banco Central, Abranet critica limitar parcelamento sem juros no cartão",0.18605287373065948,0.6712483167648315,0.1426987648010254,neutral,0.6712483167648315
+r7,Política,‘Trapo de imundícia’ e ‘água de salsicha’: oposição reage a relatório governista da CPMI,0.33418163657188416,0.5655478239059448,0.10027055442333221,neutral,0.5655478239059448
+r7,Política,STF começa a analisar regime de bens em casamento de maiores de 70 anos; sessão é suspensa,0.16376979649066925,0.6223692297935486,0.21386100351810455,neutral,0.6223692297935486
+r7,Política,Governo federal anuncia medidas para aprimorar serviços de rádio e televisão no Brasil ,0.05576840788125992,0.4427335262298584,0.5014981031417847,positive,0.5014981031417847
+r7,Pop_Arte_TV,Valesca Popozuda celebra dez anos de 'Beijinho no Ombro': 'Idosos e crianças me param para cantar',0.19980527460575104,0.30596551299095154,0.4942292273044586,positive,0.4942292273044586
+r7,Pop_Arte_TV,MC Daniel reage após Mel Maia dizer que amigo de ex a procura sempre: 'Caminho está livre',0.37557244300842285,0.4848621189594269,0.13956546783447266,neutral,0.4848621189594269
+r7,Pop_Arte_TV,"Após ser acusada de plágio, Juliette pede desculpas e diz que música será retirada do ar",0.7579933404922485,0.19601118564605713,0.04599541425704956,negative,0.7579933404922485
+r7,Pop_Arte_TV,David Brazil faz apelo e pede a motorista para não expor família de Kayky Brito: 'Siga a sua vida',0.5397670865058899,0.3399939239025116,0.1202390268445015,negative,0.5397670865058899
+r7,Pop_Arte_TV,Jada Pinkett Smith revela que ela e Will Smith pretendem escrever um livro juntos,0.17480461299419403,0.48539578914642334,0.3397996127605438,neutral,0.48539578914642334
+r7,Pop_Arte_TV,Bruna Biancardi fala sobre rotina de mãe após nascimento de Mavie: 'Totalmente dedicada a ela' ,0.01862664334475994,0.06204289570450783,0.9193304181098938,positive,0.9193304181098938
+r7,Pop_Arte_TV,Bruna Biancardi compartilha detalhes sobre o parto de Mavie,0.06415145099163055,0.2454141229391098,0.690434455871582,positive,0.690434455871582
+r7,Pop_Arte_TV,Preta Gil abre o jogo e fala sobre traição do ex-marido | Momento Venenosa,0.22987784445285797,0.48181289434432983,0.2883093059062958,neutral,0.48181289434432983
+r7,Pop_Arte_TV,Cirurgia e desabafos! Rico Melquiades pede para pararem de atacar médica que realizou sua cirurgia,0.45025742053985596,0.44587740302085876,0.10386517643928528,negative,0.45025742053985596
+r7,Viagem,"Praia do Jacaré: Onde fica, o que fazer e tudo sobre o destino de Paraíba!",0.022014951333403587,0.09511071443557739,0.8828743696212769,positive,0.8828743696212769
+r7,Viagem,Melhores Spas para você visitar na Itália ,0.006268442142754793,0.01886845752596855,0.9748630523681641,positive,0.9748630523681641
+r7,Viagem,Melhores hotéis para se hospedar no Centro de Barcelona ,0.006441270932555199,0.020324887707829475,0.9732338190078735,positive,0.9732338190078735
+r7,Viagem,Babbaloo inaugura hotel com experiências sensoriais em São Paulo; veja fotos,0.030584698542952538,0.11123344302177429,0.858181893825531,positive,0.858181893825531
+r7,Viagem,Cacau Show inaugura parque temático itinerante em São Paulo,0.07284359633922577,0.23636111617088318,0.6907952427864075,positive,0.6907952427864075
+r7,Viagem,123 Milhas: clientes ficam sem reembolso de passagens aéreas,0.6881718635559082,0.289640873670578,0.02218727394938469,negative,0.6881718635559082
+r7,Viagem,Disney aumenta preços de ingressos em parques temáticos dos EUA,0.050935905426740646,0.7105873823165894,0.2384766936302185,neutral,0.7105873823165894
+r7,Viagem,"Praia de Atalaia: Onde fica, o que fazer e tudo sobre o destino no nordeste!",0.019571086391806602,0.08379918336868286,0.8966297507286072,positive,0.8966297507286072
+r7,Viagem,Melhores hotéis para se hospedar no Centro de Lisboa ,0.006311159115284681,0.020720629021525383,0.9729682207107544,positive,0.9729682207107544
+r7,Tecnologia,Quer surpreender seu filho? Escolha este celular,0.02203492633998394,0.04638569429516792,0.9315794110298157,positive,0.9315794110298157
+r7,Tecnologia,"Mesmo após a morte, parte importante do corpo humano permanece viva",0.24105805158615112,0.3528485894203186,0.4060933291912079,positive,0.4060933291912079
+r7,Tecnologia,Home office: 68 vagas para trabalho remoto internacional [18/10],0.07347146421670914,0.39074575901031494,0.5357827544212341,positive,0.5357827544212341
+r7,Tecnologia,Netflix encerra plano básico no Brasil,0.19128696620464325,0.7161639928817749,0.09254904836416245,neutral,0.7161639928817749
+r7,Tecnologia,Benefícios da utilização da Inteligência Artificial na leitura e processamento de documentos,0.015394225716590881,0.12758128345012665,0.8570244908332825,positive,0.8570244908332825
+r7,Tecnologia,"Alerta: graças ao aquecimento global, vírus perigosos podem voltar à ativa",0.31016942858695984,0.5546950101852417,0.13513554632663727,neutral,0.5546950101852417
+r7,Tecnologia,"Bateria, IA limitada e mais: veja as principais críticas aos óculos inteligentes da Meta e Ray-Ban",0.04910240322351456,0.3637503385543823,0.5871472358703613,positive,0.5871472358703613
+r7,Tecnologia,Falha grave no WinRAR exige que usuários atualizem o app imediatamente,0.5720945000648499,0.4041518568992615,0.023753613233566284,negative,0.5720945000648499
+r7,Tecnologia,WhatsApp testa função 'ocultar número' para assegurar privacidade dos usuários,0.08590254932641983,0.4354237914085388,0.47867369651794434,positive,0.47867369651794434
+uol,Mundo,OMS solicita que ajuda humanitária entre 'todos os dias' em Gaza,0.43472668528556824,0.4293765723705292,0.1358967125415802,negative,0.43472668528556824
+uol,Mundo,Relatores da ONU acusam Israel de crime contra humanidade e temem genocídio,0.9198553562164307,0.062131743878126144,0.018012912943959236,negative,0.9198553562164307
+uol,Mundo,Funcionários da ONU ficam feridos após bombardeio no sul de Gaza,0.6908326745033264,0.2726651728153229,0.03650211542844772,negative,0.6908326745033264
+uol,Mundo,Conselho de Segurança da ONU estende por um ano sanções a grupos armados no Haiti,0.2822346091270447,0.5620403289794922,0.15572503209114075,neutral,0.5620403289794922
+uol,Mundo,Notícias da guerra em Israel hoje (19/10): Veja novas atualizações e vídeos,0.11452685296535492,0.4889134466648102,0.3965596556663513,neutral,0.4889134466648102
+uol,Mundo,"Professora, líder da ala feminina: quem era viúva de cofundador do Hamas",0.2713349163532257,0.5745478868484497,0.1541171669960022,neutral,0.5745478868484497
+uol,Mundo,"Fronteira de Rafah, entre Egito e Gaza, vai abrir amanhã, diz mídia egípcia",0.30459779500961304,0.605237603187561,0.09016460180282593,neutral,0.605237603187561
+uol,Mundo,"Criticar Israel não é antissemitismo, diz Petro após atritos com país judeu",0.6194552779197693,0.2978234887123108,0.08272126317024231,negative,0.6194552779197693
+uol,Mundo,ONG alerta para risco de colapso no sistema de saúde em Gaza,0.24295756220817566,0.5798889398574829,0.17715343832969666,neutral,0.5798889398574829
+uol,Educação,"Aquífero Guarani: mapa, importância, profundidade",0.07422950863838196,0.3815687298774719,0.5442017912864685,positive,0.5442017912864685
+uol,Educação,Entenda proposta de Tarcísio para diminuir investimento em Educação,0.16058532893657684,0.6031320691108704,0.23628269135951996,neutral,0.6031320691108704
+uol,Educação,Jogadores brasileiros são cautelosos em vários aspectos,0.09476948529481888,0.8188206553459167,0.08640991896390915,neutral,0.8188206553459167
+uol,Educação,PSI 2024 da UFAM: prazo de inscrição encerra hoje (19),0.2845441699028015,0.6108009815216064,0.10465482622385025,neutral,0.6108009815216064
+uol,Educação,Estudantes decidem manter paralisação na USP,0.31157928705215454,0.515323281288147,0.1730974018573761,neutral,0.515323281288147
+uol,Educação,Sete erros que podem zerar sua redação no Enem,0.154242604970932,0.7052311897277832,0.14052625000476837,neutral,0.7052311897277832
+uol,Educação,Vestibulinho 2024 das Etecs: resultado da redução da taxa,0.025632688775658607,0.48994407057762146,0.4844232201576233,neutral,0.48994407057762146
+uol,Educação,"Faraó: quem era, poder, mais famosos do Egito",0.023420851677656174,0.07223179191350937,0.9043474197387695,positive,0.9043474197387695
+uol,Educação,Tá no gene? Irmãos de 3 e 5 anos são aceitos em 'sociedade' de superdotados,0.2280808538198471,0.510897159576416,0.26102206110954285,neutral,0.510897159576416
+uol,Política,Biden dispensa asas da ONU e pula no escuro com Netanyahu,0.8630812764167786,0.1140146553516388,0.022904014214873314,negative,0.8630812764167786
+uol,Política,"A Fazenda 2023: Antes de ser expulsa, Rachel Sheherazade citou Bolsonaro",0.25463947653770447,0.5835380554199219,0.16182248294353485,neutral,0.5835380554199219
+uol,Política,Dal Piva: expectativa é que Elizeta ofereça denúncia contra Bolsonaro,0.28588682413101196,0.5810527205467224,0.13306039571762085,neutral,0.5810527205467224
+uol,Política,Governo pede 'bom senso' nas redes após presidente da EBC ser demitido,0.27333301305770874,0.6240036487579346,0.10266329348087311,neutral,0.6240036487579346
+uol,Política,Entenda proposta de Tarcísio para diminuir investimento em Educação,0.16058532893657684,0.6031320691108704,0.23628269135951996,neutral,0.6031320691108704
+uol,Política,TSE rejeita ações de Bolsonaro que pediam inelegibilidade de Lula,0.4068727195262909,0.4523044228553772,0.1408228874206543,neutral,0.4523044228553772
+uol,Política,Sakamoto: Lula retomou ritmo de trabalho e volta ao Planalto semana que vem,0.03472716733813286,0.28738611936569214,0.6778867244720459,positive,0.6778867244720459
+uol,Política,PGR pede que PF investigue R$ 17 milhões enviados via Pix a Bolsonaro,0.5739423632621765,0.3386613726615906,0.08739631623029709,negative,0.5739423632621765
+uol,Política,"Após Bolsonaro, TSE cria regras para uso de lives eleitorais em 2024",0.13121548295021057,0.5402456521987915,0.32853883504867554,neutral,0.5402456521987915
+uol,Pop_Arte_TV,Prefeitura de SP multa Luisa Sonza por show e a inscreve na dívida ativa,0.8086883425712585,0.1687939316034317,0.02251778170466423,negative,0.8086883425712585
+uol,Pop_Arte_TV,"Com música 'Funk Rave', Anitta vence premiação no VMA pela segunda vez",0.050949785858392715,0.17033973336219788,0.7787104845046997,positive,0.7787104845046997
+uol,Pop_Arte_TV,"Com decote e transparência, Anitta mostra look especial para o VMA 2023",0.037123966962099075,0.09163746237754822,0.8712385296821594,positive,0.8712385296821594
+uol,Pop_Arte_TV,"Quanto é a fortuna de Taylor Swift, uma das mulheres mais ricas do mundo?",0.25586962699890137,0.29521656036376953,0.4489138126373291,positive,0.4489138126373291
+uol,Pop_Arte_TV,Beyoncé 'abençoa' brasileiros que viajaram 72h para show: 'Inacreditável',0.028017090633511543,0.06507711112499237,0.9069057703018188,positive,0.9069057703018188
+uol,Pop_Arte_TV,Ludmilla está na trilha de 'Velozes e Furiosos 10': 'Parte do segredo',0.06742969155311584,0.25039950013160706,0.6821708083152771,positive,0.6821708083152771
+uol,Pop_Arte_TV,O que fez Anitta deixar Warner Music e encerrar parceria de 11 anos?,0.45770537853240967,0.46159806847572327,0.08069656044244766,neutral,0.46159806847572327
+uol,Pop_Arte_TV,'Ela se supera': Anitta faz festa de 30 anos com gringos e entrada VIP,0.02266985923051834,0.05113113299012184,0.9261990785598755,positive,0.9261990785598755
+uol,Pop_Arte_TV,Duda Beat mostrará nova versão em próximo álbum: 'Rainha da Alegria também',0.09052056819200516,0.2809526026248932,0.6285268068313599,positive,0.6285268068313599
+uol,Viagem, Caçamos ladrões com a mulher do 'Attenzione Pickpocket'  ,0.6991304159164429,0.23910312354564667,0.06176648288965225,negative,0.6991304159164429
+uol,Viagem," Ele pedalou 22,4 mil km do Alasca até Ushuaia e bateu recorde mundial  ",0.058647748082876205,0.12129168212413788,0.8200606107711792,positive,0.8200606107711792
+uol,Viagem, Primeiro navio cargueiro do mundo movido a vela chega ao Brasil amanhã  ,0.060540761798620224,0.19207395613193512,0.7473852634429932,positive,0.7473852634429932
+uol,Viagem,'Machu Picchu brasileira' tem casas dentro de cavernas,0.30983564257621765,0.5539211630821228,0.13624313473701477,neutral,0.5539211630821228
+uol,Viagem,Tel Aviv é joia democrática de Israel,0.01859232597053051,0.07903125137090683,0.9023763537406921,positive,0.9023763537406921
+uol,Viagem,Quem salva os animais nas guerras? Refúgio na Jordânia abriga vítimas,0.5771743655204773,0.37843120098114014,0.04439447447657585,negative,0.5771743655204773
+uol,Viagem,Quase parando! Esse trem é tão lento que virou atração turística,0.6022957563400269,0.3397867977619171,0.05791741982102394,negative,0.6022957563400269
+uol,Viagem,Brasileiro cruza a América de mochila produzindo e vendendo comida vegana,0.3227347135543823,0.46019622683525085,0.21706902980804443,neutral,0.46019622683525085
+uol,Viagem,"Banheiro portátil, arte na praia: a vida do casal que mora em um Celta",0.01817997917532921,0.059069305658340454,0.9227507710456848,positive,0.9227507710456848
+uol,Tecnologia,"Por que a Estônia, país mais digital do mundo, está atrás de brasileiros?",0.39981964230537415,0.5532320141792297,0.04694833233952522,neutral,0.5532320141792297
+uol,Tecnologia,Efeito Bruxelas: o 'poder invisível' da Europa por trás do PL das Fake News,0.27558350563049316,0.5258976221084595,0.19851882755756378,neutral,0.5258976221084595
+uol,Tecnologia,Galaxy M34 5G tem ótima tela e bateria que segura o tranco por 2 dias,0.01895773597061634,0.08812180161476135,0.8929204344749451,positive,0.8929204344749451
+uol,Tecnologia,"Apesar da bateria, Galaxy Watch6 é o melhor smartwatch para Android",0.005027061328291893,0.028743309900164604,0.9662296772003174,positive,0.9662296772003174
+uol,Tecnologia,WhatsApp libera 2 contas simultâneas no mesmo celular; veja como fazer,0.06204155460000038,0.30964210629463196,0.6283164024353027,positive,0.6283164024353027
+uol,Tecnologia,iPhone 'pelando': Apple culpa Instagram e Uber por bug do superaquecimento,0.6676624417304993,0.30258840322494507,0.029749108478426933,negative,0.6676624417304993
+uol,Tecnologia,iPhone 15 e iPhone 15 Pro chegam ao Brasil; veja as primeiras impressões,0.04009107127785683,0.25356677174568176,0.7063421607017517,positive,0.7063421607017517
+uol,Tecnologia, Cérebro de TikTok: o impacto das redes sociais na atenção das crianças  ,0.07777782529592514,0.3621949851512909,0.5600271821022034,positive,0.5600271821022034
+uol,Tecnologia, TikTok: Ronaldo Lemos explica o aplicativo que parece ler a sua mente  ,0.04590485244989395,0.18800082802772522,0.7660943269729614,positive,0.7660943269729614
