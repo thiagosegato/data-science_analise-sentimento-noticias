@@ -23,7 +23,7 @@ sources = {
         'Política':     'https://g1.globo.com/rss/g1/politica/',
         'Pop_Arte_TV':  'https://g1.globo.com/rss/g1/pop-arte/',
         'Viagem':       'https://g1.globo.com/rss/g1/turismo-e-viagem/',
-        'Tecnologia':   'https://www.cnnbrasil.com.br/tecnologia/'
+        'Tecnologia':   'https://g1.globo.com/rss/g1/tecnologia/'
     },
     'r7': {
         'Mundo':        'https://noticias.r7.com/internacional/feed.xml',
@@ -150,4 +150,4 @@ def graph(csv_file):
 #init()
 
 # Gerar o gráfico (noticas_analise.png)
-graph('noticias_2023-10-19_14_01_34.csv')
+graph('noticias_2023-10-19_14_53_29.csv')
