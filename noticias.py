@@ -57,13 +57,13 @@ client = Client(
 def predict(title):
     # Caso deseje realizar previsão, favor configurar aplicação abaixo
     # https://github.com/mkuchak/sentiment-analysis/tree/master
-    response = req.post('http://localhost:8000/predict', json={'text':title})
-    return json.loads(response.text)
-    # return {    
-    #     'probabilities': { 'negative': .1, 'neutral':  .3, 'positive': .6 },
-    #     'sentiment': 'positive', 
-    #     'confidence': .6
-    # }
+    # response = req.post('http://localhost:8000/predict', json={'text':title})
+    # return json.loads(response.text)
+    return {    
+        'probabilities': { 'negative': .1, 'neutral':  .3, 'positive': .6 },
+        'sentiment': 'positive', 
+        'confidence': .6
+    }
 
 def add_line(source, category, title):
     result = predict(title)
